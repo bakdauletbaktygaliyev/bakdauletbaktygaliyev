@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=bakdauletbaktygaliyev&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Bakdaulet</h1>
-<h3 align="center">Just a Student Who's Obsessed with Programming</h3>
+<h3 align="center">Just a Student</h3>
 
 - 🧠 I’m currently learning **Spring Framework, Go, C**
 
