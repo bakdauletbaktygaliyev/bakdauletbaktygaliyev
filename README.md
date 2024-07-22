@@ -12,20 +12,20 @@
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top">
-      <img height="200" src="http://github-readme-streak-stats.herokuapp.com?user=bakdauletbaktygaliyev&theme=transparent"/>
+      <img height="200" src="http://github-readme-streak-stats.herokuapp.com?user=bakdauletbaktygaliyev&theme=dark"/>
     </td>
     <!-- Github Top Languages -->
       <td valign="top">
-        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakdauletbaktygaliyev&theme=transparent"/>
+        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakdauletbaktygaliyev&theme=dark"/>
       </td>
       <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top">
-      <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bakdauletbaktygaliyev&theme=transparent"/>
+      <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bakdauletbaktygaliyev&theme=dark"/>
     </td>
     <!-- Github Top Languages -->
       <td valign="top">
-        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakdauletbaktygaliyev&theme=transparent"/>
+        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakdauletbaktygaliyev&theme=dark"/>
       </td>
   </tr>
   </tr>
