@@ -31,11 +31,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bakdauletbaktygaliyev&theme=dark&hide_border=false)
 -->
 
-<p align="left"><img width="400" x src="https://github-readme-stats.vercel.app/api/top-langs?username=bakdauletbaktygaliyev&show_icons=true&locale=en&layout=compact" alt="bakdauletbaktygaliyev" /></p>
+<p align="left"><img width="400" x src="https://github-readme-stats.vercel.app/api/top-langs?username=bakdauletbaktygaliyev&show_icons=true&locale=en&layout=compact&theme=dark" alt="bakdauletbaktygaliyev" /></p>
 
-<p align="center">&nbsp;<img width="400" src="https://github-readme-stats.vercel.app/api?username=bakdauletbaktygaliyev&show_icons=true&locale=en" alt="bakdauletbaktygaliyev" /></p>
+<p align="center">&nbsp;<img width="400" src="https://github-readme-stats.vercel.app/api?username=bakdauletbaktygaliyev&show_icons=true&locale=en&theme=dark" alt="bakdauletbaktygaliyev" /></p>
 
-<p align="right"><img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=bakdauletbaktygaliyev&" alt="bakdauletbaktygaliyev" /></p>
+<p align="right"><img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=bakdauletbaktygaliyev&theme=dark" alt="bakdauletbaktygaliyev" /></p>
 
 
 <!-- # 📊 GitHub Stats:
